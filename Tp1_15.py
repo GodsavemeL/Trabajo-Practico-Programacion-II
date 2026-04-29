@@ -1,0 +1,4 @@
+ingredientes = ["2 huevos","1 taza de azucar","1/2 taza de aceite","1 taza de leche","2 tazas de harina leudante","Esencia de vainilla, a gusto"]
+print("Primer paso:comienza batiendo los huevos junto con el azúcar hasta lograr una mezcla homogénea y ligeramente espumosa. Luego se incorpora el aceite en forma gradual, manteniendo el batido para favorecer la integración")
+print("Segundo paso:Con la mezcla lista, se vuelca en un molde previamente enmantecado y enharinado. El horno debe precalentarse a temperatura media, alrededor de 180 grados. El tiempo estimado de cocción es de 35 a 40 minutos, aunque puede variar según las características de cada horno. Para comprobar la cocción, se recomienda introducir un palillo o cuchillo en el centro: si sale limpio, la torta está lista")
+print("Tercer paso:Una vez retirada del horno, conviene dejarla enfriar a temperatura ambiente antes de desmoldar. De este modo, se conserva mejor la forma y se evita que se quiebre")

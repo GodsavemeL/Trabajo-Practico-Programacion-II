@@ -1,0 +1,5 @@
+nota1 = float(input("Ingrese la nota del primer examen:"))
+nota2 = float(input("Ingrese la nota del segundo examen:"))
+nota3 = float(input("Ingrese la nota del tercer examen:"))
+promedio = (nota1 * 0.25) + (nota2 * 0.25) + (nota3 * 0.50)
+print(f"El promedio de las tres notas es:{promedio}")
